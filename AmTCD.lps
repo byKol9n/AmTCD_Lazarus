@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="AmTCD.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="57" Y="13"/>
+        <UsageCount Value="29"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormMain"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitMain"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="17" Y="96"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitabout.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormAbout"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitAbout"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="18" Y="44"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitparam.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormParam"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitParam"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="37"/>
+        <CursorPos X="15" Y="48"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\lazarus\fpc\3.2.2\source\rtl\inc\ustrings.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1779"/>
+        <CursorPos X="10" Y="1792"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="D:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\strutils.pp"/>
+        <UnitName Value="StrUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="203"/>
+        <CursorPos X="10" Y="216"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="96" Column="23" TopLine="88"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="107" Column="3" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="96" Column="18" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="6" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="57" Column="33" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="58" Column="30" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="57" Column="7" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="56" Column="31" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="57" Column="4" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="56" Column="30" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="58" Column="32" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="57" Column="8" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unitparam.pas"/>
+        <Caret Line="56" Column="31" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="162" Column="10" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="90" Column="5" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="89" Column="7" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="91" Column="12" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="87" Column="7" TopLine="74"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="91" Column="32" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="87" Column="14" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="91" Column="36" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="154" Column="5" TopLine="141"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="87" Column="3" TopLine="87"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="76" Column="8" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="87" Column="3" TopLine="70"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="127" Column="3" TopLine="125"/>
+      </Position>
+      <Position>
+        <Filename Value="unitabout.pas"/>
+        <Caret Line="32" Column="13" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="unitabout.pas"/>
+        <Caret Line="49" Column="65" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="unitabout.pas"/>
+        <Caret Line="44" Column="18" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="unitmain.pas"/>
+        <Caret Line="87" Column="3" TopLine="85"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
